@@ -9,7 +9,7 @@ Each line is defined as A1, A2, A3 etc.. Individual parameters such as print spe
 
 The CAD design for the lattice structure is provided in three file formats for different user preferences:.DWG & .F3D & .STL 
 
-The table highlighting visible light photoinitiators is presented to give an overview of the material cost and wavelength choice available. Where entries are empty, data was not available for that photoinitiator.
+The table highlighting visible light photoinitiators is presented to give an overview of the material cost and available wavelength choice. Where entries are empty, data was not available for that photoinitiator.
 
 Author:
 Livia Kalossaka
