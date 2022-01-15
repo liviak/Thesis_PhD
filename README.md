@@ -1,7 +1,7 @@
 # Thesis_PhD
 Supporting Material (Appendix).
 In this repository, additional files used during my PhD work are provided for the general public and research community.
-The g-code used to optimise for Material Extrusion Printing is providedc(g-code.text) as well as the CAD design for a 0.25 channel diameter lattice structure (0.25 cm lattice v2) and a table highlighting visible light photoinitiators currently available.
+The g-code used to optimise for Material Extrusion Printing is providedc(g-code.text) as well as the CAD design for a 0.25 channel diameter lattice structure (0.25 cm lattice v2) and a table highlighting visible light photoinitiators currently available (visible_light_pi.png).
 
 The G-Code is written to extrude individual print lines for the Allevi 2 is shown below.
 Repetier-Host V2.1.6 is used as the g-code editor.
