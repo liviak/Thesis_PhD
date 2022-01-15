@@ -7,4 +7,4 @@ The G-Code is written to extrude individual print lines for the Allevi 2 is show
 Repetier-Host V2.1.6 is used as the g-code editor.
 Each line is defined as A1, A2, A3 etc.. Individual parameters such as print speed can be varied for individual lines. As you move towards B and C, layer height is varied while keeping speeds constant through the numbering system
 
-The CAD design for the lattice structure is provided in two file formats for different user preferences: .F3D and .STL 
+The CAD design for the lattice structure is provided in three file formats for different user preferences:.DWG & .F3D & .STL 
